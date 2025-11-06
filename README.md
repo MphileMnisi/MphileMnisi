@@ -7,12 +7,18 @@ I bring a sharp eye for detail, exceptional adaptability to new challenges, and 
 🛠️ Technologies & Skills
 
 •	Programming Languages: : Python, JavaScript, Java, C++
+
 •	AI & Machine Learning: : TensorFlow, PyTorch, Scikit-learn, OpenAI API
+
 •	Web Development: : React, Node.js, HTML, CSS
+
 •	Databases: : SQL, MongoDB, Firebase & Supabase
+
 •	Tools & Methodologies: :Git, Agile/Scrum, CI/CD
 
 📫 Let's Connect
+
 •	LinkedIn: www.linkedin.com/in/nkosimphile-siyabonga-mnisi-0a9a33389
+
 •	Email: nkosimphilem37@gmail.com
 
