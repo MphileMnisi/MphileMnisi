@@ -1,7 +1,7 @@
 Hi there, I'm Nkosimphile Mnisi 👋
 
-Software Developer | AI & ML Enthusiast
-I'm an ambitious and dedicated Software Developer with a solid foundation in problem-solving and programming. I am passionate about working with cutting-edge technologies, particularly in artificial intelligence and machine learning.
+I'm an ambitious and dedicated Software Developer with a solid foundation in problem-solving and programming. I am deeply passionate about working with cutting-edge technologies, particularly in Artificial Intelligence and Machine Learning.
+
 I bring a sharp eye for detail, exceptional adaptability to new challenges, and strong time management skills to every project. I thrive in collaborative environments and am passionate about leveraging creativity, innovation, and ethical principles to develop intelligent and impactful technological solutions.
 
 🛠️ Technologies & Skills
