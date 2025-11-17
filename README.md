@@ -41,3 +41,13 @@ This is an AI-powered educational tool designed specifically for South African t
 👉 Repo: https://github.com/MphileMnisi/SA-Grade-12-marker-
 
 👉 Live Demo: https://sa-grade-12-marker.vercel.app/
+
+**AI Resume Builder**( React, TypeScript, Tailwind CSS & Google Gemini API ) 
+
+This application, named PentaHire, is an intelligent, AI-powered resume builder designed to help users create, optimize, and tailor their resumes for specific job opportunities.
+
+👉 Repo: https://github.com/MphileMnisi/AI-Resume-Builder
+
+👉 Live Demo: https://ai-resume-builder-one-phi.vercel.app/
+
+
