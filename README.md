@@ -27,6 +27,17 @@ Hello! I'm Nkosimphile Mnisi, an enthusiastic and driven Software Developer with
 
 **🎓 SA School Recommentation System**( React, Tailwind CSS & Google Gemini API ) 
 
+SA School Recommender is an intelligent web application designed to assist South African high school learners in finding suitable tertiary institutions based on their academic performance.
+
+👉 Repo: https://github.com/MphileMnisi/SA-School-Recommendation-System-
+
+👉 Live Demo: https://sa-school-recommendation-system.vercel.app/
 
 
+**🎓SA Grade 12 Script Marker**( React, TypeScript, Tailwind CSS & Google Gemini API )
 
+This is an AI-powered educational tool designed specifically for South African teachers and examiners. Its primary purpose is to automate and assist in the laborious process of marking Grade 12 student examination scripts (exam papers). It aims to save teachers time while providing consistent, objective feedback to students.
+
+👉 Repo: https://github.com/MphileMnisi/SA-Grade-12-marker-
+
+👉 Live Demo: https://sa-grade-12-marker.vercel.app/
