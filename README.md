@@ -51,3 +51,11 @@ This application, named PentaHire, is an intelligent, AI-powered resume builder 
 👉 Live Demo: https://ai-resume-builder-one-phi.vercel.app/
 
 
+**Personal Developer Portfolio**( React, TypeScript, Tailwind CSS & Google Gemini API ) 
+
+This application is a personal developer portfolio website designed for Nkosimphile Mnisi, a Software Developer.It is a modern, responsive Single Page Application (SPA) built with React, TypeScript, and Tailwind CSS. The site is designed to showcase professional skills, projects, education, and contact information.
+
+👉 Repo: https://github.com/MphileMnisi/Portfolio-?tab=readme-ov-file
+
+👉 Live Demo: https://portfolio-eight-eosin-rfgf5yrexg.vercel.app/
+
