@@ -1,7 +1,7 @@
-##Hi there, I'm Nkosimphile Mnisi 👋##
+# Hi there, I'm Nkosimphile Mnisi 👋
 
 
-**About Me**
+## About Me
 
 Hello! I'm Nkosimphile Mnisi, an enthusiastic and driven Software Developer with a strong passion for innovation and technology. With a solid foundation in problem-solving and programming, and I am always eager to explore new frontiers in the tech world.I pride myself on my adaptability, attention to detail, and time management, which I apply to every project I undertake. I thrive in collaborative environments, where I can contribute my creativity and innovative mindset to develop solutions that are not only intelligent but also impactful and ethically sound.
 
@@ -12,7 +12,7 @@ Hello! I'm Nkosimphile Mnisi, an enthusiastic and driven Software Developer with
 **Passionate about**: Transforming ideas into scalable applications, mastering cloud technologies, and championing clean code as the foundation of sustainable innovation.
 
 
-**🚀Tech Stack** 
+## **🚀Tech Stack** 
 
 **Languages**: Java, Python, JavaScript 
 
@@ -23,9 +23,9 @@ Hello! I'm Nkosimphile Mnisi, an enthusiastic and driven Software Developer with
 **Database**: SQL & Firebase 
 
 
-**🚀Featured projects** 
+## **🚀Featured projects** 
 
-**🎓 SA School Recommentation System**( React, Tailwind CSS & Google Gemini API ) 
+## **🎓 SA School Recommentation System**( React, Tailwind CSS & Google Gemini API ) 
 
 SA School Recommender is an intelligent web application designed to assist South African high school learners in finding suitable tertiary institutions based on their academic performance.
 
@@ -34,7 +34,7 @@ SA School Recommender is an intelligent web application designed to assist South
 👉 Live Demo: https://sa-school-recommendation-system.vercel.app/
 
 
-**🎓SA Grade 12 Script Marker**( React, TypeScript, Tailwind CSS & Google Gemini API )
+## **🎓SA Grade 12 Script Marker**( React, TypeScript, Tailwind CSS & Google Gemini API )
 
 This is an AI-powered educational tool designed specifically for South African teachers and examiners. Its primary purpose is to automate and assist in the laborious process of marking Grade 12 student examination scripts (exam papers). It aims to save teachers time while providing consistent, objective feedback to students.
 
@@ -42,7 +42,7 @@ This is an AI-powered educational tool designed specifically for South African t
 
 👉 Live Demo: https://sa-grade-12-marker.vercel.app/
 
-**AI Resume Builder**( React, TypeScript, Tailwind CSS & Google Gemini API ) 
+## **AI Resume Builder**( React, TypeScript, Tailwind CSS & Google Gemini API ) 
 
 This application, named PentaHire, is an intelligent, AI-powered resume builder designed to help users create, optimize, and tailor their resumes for specific job opportunities.
 
@@ -51,7 +51,7 @@ This application, named PentaHire, is an intelligent, AI-powered resume builder 
 👉 Live Demo: https://ai-resume-builder-one-phi.vercel.app/
 
 
-**Personal Developer Portfolio**( React, TypeScript, Tailwind CSS & Google Gemini API ) 
+## **Personal Developer Portfolio**( React, TypeScript, Tailwind CSS & Google Gemini API ) 
 
 This application is a personal developer portfolio website designed for Nkosimphile Mnisi, a Software Developer.It is a modern, responsive Single Page Application (SPA) built with React, TypeScript, and Tailwind CSS. The site is designed to showcase professional skills, projects, education, and contact information.
 
