@@ -31,7 +31,7 @@ SA School Recommender is an intelligent web application designed to assist South
 
 👉 Repo: https://github.com/MphileMnisi/SA-School-Recommendation-System-
 
-👉 Live Demo: https://sa-school-recommendation-system.vercel.app/
+👉 Live Demo: https://recommender-hshy.vercel.app/
 
 
 ## **🎓SA Grade 12 Script Marker**( React, TypeScript, Tailwind CSS & Google Gemini API )
