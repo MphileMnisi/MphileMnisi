@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello! I'm Nkosimphile Mnisi, an enthusiastic and driven Software Developer with a strong passion for innovation and technology. With a solid foundation in problem-solving and programming, and I am always eager to explore new frontiers in the tech world.I pride myself on my adaptability, attention to detail, and time management, which I apply to every project I undertake. I thrive in collaborative environments, where I can contribute my creativity and innovative mindset to develop solutions that are not only intelligent but also impactful and ethically sound.
+Hello! I'm Nkosimphile Mnisi, an enthusiastic and driven Software Developer with a strong passion for innovation and technology. With a solid foundation in problem-solving and programming, and I am always eager to explore new frontiers in the tech world. I pride myself on my adaptability, attention to detail, and time management, which I apply to every project I undertake. I thrive in collaborative environments, where I can contribute my creativity and innovative mindset to develop solutions that are not only intelligent but also impactful and ethically sound.
 
 **Current Learning**: Python, Artificial Intelligence & Java 
 
